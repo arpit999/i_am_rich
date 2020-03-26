@@ -1,7 +1,8 @@
 # i_am_rich
 
-A new Flutter application.
+Create a business card in a flutter. It uses the Text, SizeBox, Card, ListTile, Custom Font, Container, and CircleAvatar.
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/GJDYhK9/final.png" alt="final" border="0"></a>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
