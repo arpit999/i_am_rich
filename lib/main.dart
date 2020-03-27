@@ -90,22 +90,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-//Row(
-//                  children: <Widget>[
-//                    Icon(
-//                      Icons.email,
-//                      color: Colors.teal,
-//                    ),
-//                    SizedBox(
-//                      width: 10,
-//                    ),
-//                    Text(
-//                      'arpitpatel009@gmail.com',
-//                      style: TextStyle(
-//                          fontSize: 20,
-//                          fontWeight: FontWeight.bold,
-//                          fontFamily: 'Source Sans Pro',
-//                          color: Colors.teal.shade900),
-//                    ),
-//                  ],
-//                ),
+
